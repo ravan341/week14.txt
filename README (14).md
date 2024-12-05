@@ -33,5 +33,6 @@ A prediction model leveraging machine learning algorithms, such as *K-Means Clus
 
 **OUTPUT:-**
 
-![image](https://github.com/user-attachments/assets/333fc368-05e4-4b17-aafe-85114cfb7307)
+![2d577c82-7c9c-4cdb-a766-7546d6c0eee8](https://github.com/user-attachments/assets/9e8228d1-ad45-4e1b-a771-6d9818881bd7)
+
 
